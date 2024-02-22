@@ -1,0 +1,36 @@
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\Project ZOPZ.exe.config
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\Project ZOPZ.exe
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\Project ZOPZ.pdb
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\Newtonsoft.Json.xml
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project ZOPZZ.csproj.AssemblyReference.cache
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project ZOPZZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.login.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Doxtool.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.IPgraph.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Logger.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.alirt.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.spambot.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Attackhub.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Home.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.mainform.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Properties.Resources.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.settings.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Toolhub.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project ZOPZZ.csproj.GenerateResource.cache
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project ZOPZZ.csproj.CoreCompileInputs.cache
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project ZOPZZ.csproj.CopyComplete
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project ZOPZ.exe
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project ZOPZ.pdb
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Livechat.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Tickets.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.Mess.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\DiscordRPC.dll
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\FontAwesome.Sharp.dll
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\Newtonsoft.Json.dll
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.UserControl1.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\HtmlAgilityPack.dll
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\HtmlAgilityPack.pdb
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\HtmlAgilityPack.xml
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.ucReceivedBubble.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\obj\Release\Project_ZOPZZ.ucSentBubble.resources
+C:\Users\fire0\source\repos\Project ZOPZZ\Project ZOPZZ\bin\Release\Guna.UI2.dll
